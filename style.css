@@ -1,0 +1,122 @@
+body {
+    background-color: rgb(146, 146, 146);
+}
+
+.fancy{
+  color: #fff;
+  text-align: center;
+}
+
+.fancy:hover {
+    background-color: rgb(173, 214, 237);
+}
+
+.h {
+        color: #000000;
+        padding: 5px 25px;
+        outline: none;
+        border: none;
+        border-radius: 25px;
+        background-color: rgb(196, 209, 212);
+        cursor: pointer;
+        color: #000 ;
+        font-weight: 600;
+        font-size: 20px;
+        letter-spacing: 2px;
+        box-shadow: 0px 5px 10px #000;
+}
+
+.o {
+    color: #fff;
+    padding: 5px 25px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(196, 209, 212);
+    cursor: pointer;
+    color: #000 ;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+    box-shadow: 0px 5px 10px #000;
+}
+
+.s {
+    color: #000000;
+    padding: 5px 25px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(196, 209, 212);
+    cursor: pointer;
+    color: #000;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+    box-shadow: 0px 5px 10px #000;
+}
+
+.i {
+    color: #fff;
+    text-align: center;
+}
+
+.i:hover {
+    background-color: rgb(175, 244, 233);
+}
+
+.m {
+    color: #fff;
+    text-align: center;
+}
+
+.m:hover {
+    text-shadow: rgb(15, 42, 121) -3px 0,
+                 rgb(146, 207, 233) 3px 0;
+}
+
+.q {
+    color: #000000;
+    padding: 5px 25px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(196, 209, 212);
+    cursor: pointer;
+    color: #000;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+    box-shadow: 0px 5px 10px #000;
+}
+
+.tr {
+    text-align: center;
+}
+
+.jk {
+   border: none;
+   background: #2142a5;
+   padding: 10px 15px;
+   color: #ffffff;
+   border-radius: 5px;
+   transition: 0.2s;
+
+}
+
+button:hover {
+    box-shadow: 0 0 0 4px #c4f7fb, 0 0 0 8px #4070f4
+   
+}
+
+.tej:hover {
+    background-color: rgb(170, 201, 201);
+    padding: .25em;
+    border-radius: .30em;
+}
+
+.tej {
+    color: #fff;
+    text-align: center;
+}
+   
